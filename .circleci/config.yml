@@ -168,7 +168,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - 'cf:4e:21:31:c9:12:95:36:9e:30:f8:3a:de:a5:8c:63'
+            - '54:87:7d:8c:8f:de:ca:2b:74:27:6e:d1:a4:2d:49:69'
       - run:
           name: Install dependencies
           command: |
@@ -269,7 +269,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - 'cf:4e:21:31:c9:12:95:36:9e:30:f8:3a:de:a5:8c:63'
+            - '54:87:7d:8c:8f:de:ca:2b:74:27:6e:d1:a4:2d:49:69'
       - run:
           name: Install dependencies
           command: |
@@ -381,7 +381,7 @@ jobs:
   #     - checkout
   #     - add_ssh_keys:
   #         fingerprints:
-  #           - 'cf:4e:21:31:c9:12:95:36:9e:30:f8:3a:de:a5:8c:63'
+  #           - '54:87:7d:8c:8f:de:ca:2b:74:27:6e:d1:a4:2d:49:69'
   #     - run:
   #         name: Install dependencies
   #         command: |
