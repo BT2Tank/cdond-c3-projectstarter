@@ -1,0 +1,8 @@
+[URL01] Public Url to GitHub repository
+https://github.com/BT2Tank/cdond-c3-projectstarter
+
+[URL02] Public URL for your S3 Bucket (aka, your green candidate front-end)
+http://udapeople-ded4599.s3.amazonaws.com/index.html#/employees
+
+[URL03] Public URL for your CloudFront distribution (aka, your blue production front-end)
+http://d2fcr7wpiadq8s.cloudfront.net/#/employees
